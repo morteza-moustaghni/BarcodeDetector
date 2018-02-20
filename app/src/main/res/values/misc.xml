@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="Error1">Could not set up the detector!</string>
+    <string name="button_text">Process</string>
+    <string name="Error2">Could not connect to API</string>
+    <string name="Verified">So far so good</string>
+</resources>
